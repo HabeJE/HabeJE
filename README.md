@@ -1,7 +1,7 @@
-Hello,
-Below is a variety of programs and scripts made in C++ and Python.
-Currently learning Java and SQL.
-Looking to advance my knowledge and skills through internships.
+Hello,\
+Below is a variety of programs and scripts made in C++ and Python.\
+Currently learning Java and SQL.\
+Looking to advance my knowledge and skills as an intern.
 
 <!--
 **HabeJE/HabeJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
