@@ -1,5 +1,5 @@
 Hello,\
-Below is a variety of programs and scripts made in C++ and Python.\
+Student at Franciscan University of Steubenville.\
 Currently learning Java and SQL.\
 Looking to advance my knowledge and skills as an intern.
 
